@@ -57,7 +57,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/aulasphp/ex06
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/aulasphp/ex06
 ```
 
 >[!TIP]
@@ -90,7 +90,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -103,7 +103,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/aulasphp/ex06"><img src="https://github.com/user-attachments/assets/653a6887-0eec-4aa6-9b28-da62fbad3443" alt = "codigo" width="400" height="250"></a>&nbsp;&nbsp; <a href="https://youtu.be/xgqOoPztr40"><img src="https://github.com/user-attachments/assets/dafbc6a7-02cb-482a-b93e-691d7b1db5bc" alt = "codigo" width="400" height="250"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/aulasphp/ex06"><img src="https://github.com/user-attachments/assets/653a6887-0eec-4aa6-9b28-da62fbad3443" alt = "codigo" width="400" height="250"></a>&nbsp;&nbsp; <a href="https://youtu.be/xgqOoPztr40"><img src="https://github.com/user-attachments/assets/dafbc6a7-02cb-482a-b93e-691d7b1db5bc" alt = "codigo" width="400" height="250"></a>
 
 ---
 
@@ -135,7 +135,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio01
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio01
 ```
 
 ___
@@ -145,7 +145,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -157,7 +157,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio01"><img src="https://github.com/user-attachments/assets/01b0d1a7-7452-4e5f-88af-23d12464f3c5" alt = "codigo" width="400" height="250"></a>&nbsp;&nbsp; <a href="https://youtu.be/Bxmqb1zreQ4"><img src="https://github.com/user-attachments/assets/829e72bd-5893-47ce-b2d4-cbbf4d5d491f" alt = "codigo" width="400" height="250"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio01"><img src="https://github.com/user-attachments/assets/01b0d1a7-7452-4e5f-88af-23d12464f3c5" alt = "codigo" width="400" height="250"></a>&nbsp;&nbsp; <a href="https://youtu.be/Bxmqb1zreQ4"><img src="https://github.com/user-attachments/assets/829e72bd-5893-47ce-b2d4-cbbf4d5d491f" alt = "codigo" width="400" height="250"></a>
 
 ---
 </div>
@@ -187,7 +187,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio02
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio02
 ```
 
 ___
@@ -197,7 +197,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -209,7 +209,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio02"><img src="https://github.com/user-attachments/assets/01fc3966-56db-44f5-b2c9-9bb3fd860fcb" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href="https://youtu.be/pQHMKmvNO0M"><img src="https://github.com/user-attachments/assets/46667eb6-432a-4f23-8191-a3938d20f56d" alt = "codigo" width="400" height="300"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio02"><img src="https://github.com/user-attachments/assets/01fc3966-56db-44f5-b2c9-9bb3fd860fcb" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href="https://youtu.be/pQHMKmvNO0M"><img src="https://github.com/user-attachments/assets/46667eb6-432a-4f23-8191-a3938d20f56d" alt = "codigo" width="400" height="300"></a>
 
 ---
 </div>
@@ -237,7 +237,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio03
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio03
 ```
 
 ___
@@ -247,7 +247,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -259,7 +259,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio03"><img src="https://github.com/user-attachments/assets/b558ca38-1afe-4829-9b90-7a50fd42eca6" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href="https://youtu.be/nX59PQ7tNkA"><img src="https://github.com/user-attachments/assets/aa43c2b1-c2da-488d-8182-fa8325557cde" alt = "codigo" width="400" height="300"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio03"><img src="https://github.com/user-attachments/assets/b558ca38-1afe-4829-9b90-7a50fd42eca6" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href="https://youtu.be/nX59PQ7tNkA"><img src="https://github.com/user-attachments/assets/aa43c2b1-c2da-488d-8182-fa8325557cde" alt = "codigo" width="400" height="300"></a>
 
 ---
 </div>
@@ -287,7 +287,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio04
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio04
 ```
 
 ___
@@ -297,7 +297,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -309,7 +309,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio04"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio04"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
 
 ---
 </div>
@@ -337,7 +337,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio05
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio05
 ```
 
 ___
@@ -347,7 +347,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -359,7 +359,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio05"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio05"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
 
 ---
 </div>
@@ -387,7 +387,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/aulasphp/ex11
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/aulasphp/ex11
 ```
 
 ___
@@ -397,7 +397,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -409,7 +409,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/aulasphp/ex11"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/aulasphp/ex11"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
 
 ---
 </div>
@@ -437,7 +437,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio06
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio06
 ```
 
 ___
@@ -447,7 +447,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -459,7 +459,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio06"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio06"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
 
 ---
 </div> 
@@ -487,7 +487,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio07
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio07
 ```
 
 ___
@@ -497,7 +497,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -509,7 +509,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio07"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio07"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
 
 ---
 </div> 
@@ -537,7 +537,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio08
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio08
 ```
 
 ___
@@ -547,7 +547,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -559,7 +559,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio08"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio08"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
 
 ---
 </div> 
@@ -587,7 +587,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio09
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio09
 ```
 
 ___
@@ -597,7 +597,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -609,7 +609,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio09"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio09"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
 
 ---
 </div> 
@@ -637,7 +637,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio10
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio10
 ```
 
 ___
@@ -647,7 +647,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -659,7 +659,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio10"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio10"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
 
 ---
 </div> 
@@ -687,7 +687,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio11
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio11
 ```
 
 ___
@@ -697,7 +697,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -709,7 +709,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio11"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio11"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
 
 ---
 </div> 
@@ -737,7 +737,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio12
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio12
 ```
 
 ___
@@ -747,7 +747,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -759,7 +759,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio12"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio12"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
 
 ---
 </div> 
@@ -787,7 +787,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio13
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio13
 ```
 
 ___
@@ -797,7 +797,7 @@ ___
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
 
 ```bash
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos
 ```
 
 </div>
@@ -809,7 +809,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio13"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+<a href="https://github.com/johnerik63/Curso_PHP_Basico/tree/main/Projetos/desafio13"><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
 
 ---
 </div> 
@@ -817,20 +817,4 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 ## Contatos 📞
 
  
-  [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](pedrohenriqueufpa2018@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/pedro3dkhenrique/) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/pedrohenrique3dk)
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](johnerik63@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/johnerik63/) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/johnerik63)
